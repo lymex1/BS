@@ -11,5 +11,6 @@ def BSsearch(A, target):
             right = mid
 
     return -1
+#Test
 
 print(BSsearch([1, 2, 5, 6, 8, 9], 8))
